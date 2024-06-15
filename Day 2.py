@@ -10,5 +10,4 @@ luas = int(panjang) * int(lebar)
 keliling = 2 * (int(panjang) + int(lebar)) 
  
 #menampilkan hasil 
-print ('Luas Persegi adalah ', luas ,' sedangkan kelilingnya adalah ',
-keliling)
+print ('Luas Persegi adalah ', luas ,' sedangkan kelilingnya adalah ',keliling)
